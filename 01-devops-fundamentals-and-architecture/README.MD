@@ -47,21 +47,23 @@
 این تقسیم‌ بندی یک مدل مفهومی است و مرزهای دقیق آن در تمام سازمان‌ها یکسان نیست. هدف از آن ، نشان دادن ارتباط میان فعالیت‌ هایی است که در ساختارهای سنتی ممکن است به تیم‌ های جداگانه واگذار شده باشند.
 
 ```bash
-نیاز کاربر 
+User Needs
 ↓
- تحلیل و طراحی 
-↓ 
-توسعه و تغییر کد 
+Analysis and Design
 ↓
- ساخت و آزمایش
+Code Development and Modification
 ↓
- انتشار و استقرار
+Build and Testing
 ↓
-بهره‌ برداری و پایش 
+Release and Deployment
 ↓
- بازخورد و بهبود
- └──────────────→ بازگشت به تحلیل و طراحی 
+Operation and Monitoring
+↓
+Feedback and Improvement
+└──────────────→ Return to Analysis and Design
 ```
+
+
 
 
 
