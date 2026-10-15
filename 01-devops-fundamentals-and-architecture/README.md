@@ -3,7 +3,7 @@
 ### 📚 Table of Content
 
  - 1.1 [What Is DevOps and & Cultural Shift ?]()
-    - 1.1.1 [What is DevOps ?]()
+    - 1.1.1 [What is DevOps ?](https://github.com/orcanest/devops-learning-journey/tree/main/01-devops-fundamentals-and-architecture#111-what-is-devops-)
     - 1.1.2 [Definition of DevOps]()
     - 1.1.3 [Technology Value Stream]()
       - 1.1.3.1 [Key Components of the Technology Value Stream]()
